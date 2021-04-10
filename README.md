@@ -7,6 +7,7 @@
   Projekt on sündinud ja arendatud Tallinna Ülikooli Digitehnoloogia Instituudi Robootika aine raames.
   
 ### [Video demo](https://youtu.be/XHxEwypM9CY)
+<img src="https://scontent-hel3-1.xx.fbcdn.net/v/t1.15752-9/167565698_881687046009416_1569228282001550518_n.jpg?_nc_cat=107&ccb=1-3&_nc_sid=ae9488&_nc_ohc=lZ3OwPjOfboAX8Yumhm&_nc_ht=scontent-hel3-1.xx&oh=6446e8dccfb569586d3e9069b8d685e1&oe=60725A9D" width="288.46" height="386">
   
 ### Süsteemi füüsiliste komponentide ühendusskeem 
 <p align=center><img src="https://cdn.discordapp.com/attachments/763628368398516235/830222038764879882/BsAAAAASUVORK5CYII.png" width="623" height="470"></p>
